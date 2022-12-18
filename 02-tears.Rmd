@@ -1,2 +1,7 @@
 # The pool of tears
 
+```{r}
+tom <-c(21,32,45,67,32,21,2,1,4,12)
+hist(tom)
+```
+
