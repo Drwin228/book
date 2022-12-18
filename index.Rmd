@@ -1,5 +1,5 @@
 --- 
-title: "Statistics-2100"
+title: "Statistics-2100 Fall-2023"
 author: "Dr.Francois Nguyen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
